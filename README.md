@@ -17,11 +17,11 @@ Please make sure to update tests as appropriate.
 
 ## Original Repo
 Original Repo Link (.pug / .html ) - [Click Me](https://github.com/lrmn7/pixel-portfolio-theme)🗄️
-Credits - [L RMN](https://github.com/lrmn7
+Credits - [L RMN](https://github.com/lrmn7)
 
 ## Support me
 
-- 👉 🇮🇩 [Trakteer](https://trakteer.id/lrmn) free access
+- 👉 🇮🇩 [Trakteer](https://trakteer.id/lrmn)
 - 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/lrmn)
 - 👉 🌍 [Ko-Fi](https://ko-fi.com/lrmn7)
 
