@@ -32,7 +32,7 @@ Credits - [L RMN](https://github.com/lrmn7
 ![home](https://media.discordapp.net/attachments/1091192083852828744/1109948128683110530/Screenshot_2023-05-22_at_03-48-26_L_RMN.png?width=806&height=401)
 
 ## License
-Copyright © 2020 by [L RMN](https://is-a.fun/)
+Copyright © 2023 by [L RMN](https://is-a.fun/)
 
 
 
